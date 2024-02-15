@@ -1,1 +1,1 @@
-from new-basicsr import *
+from new_basicsr import *
